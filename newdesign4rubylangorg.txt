@@ -4,9 +4,9 @@ However,the current design is built for the typical size of a desktop or laptop 
 Smartphones and tablets. We still need more work for the design!
 
 Ruby it's 20 anniversary this year,ruby-lang.org is calling all to submit design ideas.
-Please read the instructions below and send in your design entry.
+Please read the instructions below and send  your design entry.
 
-SUBMISSION GUIDELINES
+SUBM
 
 New Design for www.ruby-lang.org
 
