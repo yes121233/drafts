@@ -1,0 +1,43 @@
+ruby-lang.org has switched its platform from RdiantCMS to jekyll in 2013 spring.
+Everyone is now can edit the content throug the github. How about that?
+However,the current design is built for the typical size of a desktop or laptop but not for
+Smartphones and tablets. We still need more work for the design!
+
+Ruby it's 20 anniversary this year,ruby-lang.org is calling all to submit design ideas.
+Please read the instructions below and send in your design entry.
+
+SUBMISSION GUIDELINES
+
+New Design for www.ruby-lang.org
+
+DESIGN CONCEPT
+ *Base color should be red. (Ruby color) Your design should contain the Ruby logo.
+ *Should support maltidevices with no layout broken. Responsive design is preferable.
+ *Should support i18n. New design should support alllaunguage set that currentyl used at ruby-lang.org
+
+Eligibility
+ * Applicant must have a github account.
+ * Knowledge of jeklly is reuqired.
+ 
+Submittion method
+ * Make a pull request to https://github.com/ruby/www.ruby-lang.org with your complete css data.
+ * pull requests must include at least one design screenshot.
+
+Application period
+From September 18, 2013 to November 28, 2013, 5:00 p.m.
+ *All dates are in JST (UTC+09:00).
+
+Evaluations
+www.admin will evaluate submitted data.
+
+Copyright assingment
+He/She need to make a copyright assignment agreement with Ruby Association if your design was adapted.
+All copyright are transferred from you to Ruby Association.
+Ruby Association will distribute the design under the Creative Commons Attribution-share Alike license
+http://creativecommons.org/licenses/by-sa/3.0/
+
+
+Please be sure that all designing cost is at your own expense.
+
+Contact us
+www-admin(at)ruby-lang.org
